@@ -1,0 +1,23 @@
+
+    footer {
+        position: relative;
+        width: 100%;
+        padding: 20px 0;
+        background-color:darkslategray;
+        font-family:monospace;
+        color:white;
+        bottom: 0%;
+        
+        
+      }
+      h3{
+        color:white;
+        font-family:'Times New Roman', Times, serif;
+      }
+      
+      .fab{
+        color:white
+      }
+      i:hover{
+        color: blue;
+      }

@@ -1,0 +1,70 @@
+.bs{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    
+
+}
+.servicesText.card {
+    height: 500px;
+    
+  }
+  .card .btn{
+    
+    border-color:black;
+    
+    
+}
+.card:hover .btn {
+    background-color: green;
+    color:white;
+}
+.subtab:hover{  
+
+background-color:green
+
+}
+
+.listbox{
+    font-size:larger;
+    
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.listbox:hover{
+    background-color: green;
+    color:white
+}
+#options{
+    border: 2px solid #ccc;  
+    border-radius: 5px;
+
+
+}
+#options:hover{
+    border-color: skyblue
+}
+.abc{
+    font-size: 20px;
+    border-color: goldenrod;
+}
+.abc:hover{
+    background-color: green;
+    color:white;
+}
+.listforms{
+    width:100%;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+  
+tr:nth-child(even) {
+    background-color:#dddddd
+    }
+    tr:nth-child(odd) {
+    background-color:aliceblue
+  }
